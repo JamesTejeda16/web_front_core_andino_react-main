@@ -433,7 +433,7 @@
   background-size: 180% 180%;
   animation: splitInRight 0.7s cubic-bezier(0.22, 1, 0.36, 1) both,
     lpShift 18s ease 0.7s infinite;
-}}
+}
 /* Flores decorativas con los colores del logo */
 .split-login__flor {
   position: absolute;
